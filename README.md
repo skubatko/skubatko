@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=skubatko&style=flat)
 [![Github](https://img.shields.io/badge/-skubatko-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/skubatko)
 
-<!--
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![vvscode's github stats](https://github-readme-stats.vercel.app/api?username=skubatko&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
--->
+<!-- ![vvscode's github stats](https://github-readme-stats.vercel.app/api?username=skubatko&show_icons=true&count_private=true&include_all_commits=true&hide_title=true) -->

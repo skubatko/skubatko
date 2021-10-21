@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/Sergey%20Kubatko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/skubatko/)
-[![Codewars](https://www.codewars.com/users/skubatko/badges/micro)](https://www.codewars.com/users/skubatko)
-
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=skubatko&style=flat)
 [![Github](https://img.shields.io/badge/-skubatko-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/skubatko)
 
+<!-- Profile View Count -->
+[![Codewars](https://www.codewars.com/users/skubatko/badges/micro)](https://www.codewars.com/users/skubatko)
+![](https://komarev.com/ghpvc/?username=skubatko&style=flat)
+
+<!-- GitStats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![vvscode's github stats](https://github-readme-stats.vercel.app/api?username=skubatko&show_icons=true&count_private=true&include_all_commits=true&hide_title=true) -->

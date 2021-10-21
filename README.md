@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/skubatko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/skubatko/)
+[![Linkedin](https://img.shields.io/badge/Sergey%20Kubatko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/skubatko/)
 [![Codewars](https://www.codewars.com/users/skubatko/badges/micro)](https://www.codewars.com/users/skubatko)
 
 <!-- Profile View Count and GitStats -->

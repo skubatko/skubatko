@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- Profile View Count -->
 [![Codewars](https://www.codewars.com/users/skubatko/badges/micro)](https://www.codewars.com/users/skubatko)
-![](https://komarev.com/ghpvc/?username=skubatko&style=flat)
+![Profile](https://komarev.com/ghpvc/?username=skubatko&style=flat)
 
 <!-- GitStats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->

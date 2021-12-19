@@ -14,3 +14,6 @@
 <!-- GitStats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![skubatko's github stats](https://github-readme-stats.vercel.app/api?username=skubatko&show_icons=true&count_private=true&include_all_commits=true&hide_title=true) -->
+
+<!-- Wins -->
+<img src="https://i.postimg.cc/ZKN0H666/javathon-results.png" alt="Javathhon" width="200"/>

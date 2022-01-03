@@ -23,6 +23,8 @@
     <td>
       <!-- Badges -->
       <a href="https://www.codewars.com/users/skubatko"><img src="https://www.codewars.com/users/skubatko/badges/micro" alt="Codewars"/></a>
+<!--       https://leetcode-badge.vercel.app/ -->
+<!--       <a href="https://leetcode.com/skubatko"><img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fskubatko&logo=leetcode&logoColor=yellow" alt="LeetCode"/></a> -->
       <a href="#"><img src="https://komarev.com/ghpvc/?username=skubatko&style=flat" alt="Profile"/></a>
     </td>
   </tr>
